@@ -1,0 +1,11 @@
+<%- include('header') %>
+<div class="result">
+    <% if(error){ %>
+        <%= error %>
+    <% }else{ %>
+        <%= quantidade %> dólares na cotação R$
+        <%= cotacao %>/US$ é igual a: 
+        <%= conversao %> Reais
+    <% } %>
+</div>
+<%- include('footer') %>
