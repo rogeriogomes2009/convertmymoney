@@ -25,3 +25,8 @@ button{
     font-size: 24px;
     background: #fdfdfd;
 }
+.footer{
+    padding: 12px;
+    background:#75767c;
+    color: #fdfdfd;
+}
