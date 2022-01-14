@@ -4,17 +4,19 @@ body{
     background-image: url(/images/background.png);
 }
 input{
-    border: 4px solid #9f4e14;
-    background: #b3d3e0;
+    border: 2px solid #046d9e;
+    background: #aeddf0;
     font-size: 20px;
     padding: 10px;
     margin: 4px;
     text-align: center;
 }
 button{
-    border: 4px solid #0b24af;
-    background: #81ebf3;
+    border: 2px solid #0c442d;
+    background: #6dfac4;
     font-size: 18px;
+    font-weight: bold;
+    inline-size: 140px;
     padding: 4px;
 }
 .voltar{
