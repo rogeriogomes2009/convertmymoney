@@ -2,10 +2,6 @@ body{
     text-align: center;
     background-image: url(/images/background.png);
 }
-h1 img{
-    width: 300px;
-    margin: 20px;
-}
 input{
     border: 4px solid #9f4e14;
     background: #b3d3e0;

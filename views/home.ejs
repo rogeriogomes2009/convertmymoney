@@ -1,16 +1,20 @@
 <%- include('header') %>
 <form method="GET" action="/cotacao">
-    <input name="cotacao" placeholder="Cotação dolar" value="<%= cotacao %>"><br/>
-    Cotação do USDólar de Hoje
-    <br>
+    
+    <input class="img-responsive rounded mx-auto d-block" 
+           name="cotacao" 
+           placeholder="Cotação dolar" 
+           value="<%= cotacao %>"><br/>
+    <p class="text-center">Cotação do USDólar de Hoje</p>
+
     <p>
         
     </p>
-    <input name="quantidade" placeholder="Quantidade de dolares"><br/>
-    Digite sua Qtd de Dólares<br>
+    <input class="img-responsive rounded mx-auto d-block"name="quantidade" placeholder="Quantidade de dolares"><br/>
+<p class="text-center">Digite sua Qtd de Dólares</p>
     <p>
 
     </p>
-    <button>Converter!</button>
+    <button class="img-responsive rounded mx-auto d-block">Converter!</button>
 </form>
 <%- include('footer') %>
