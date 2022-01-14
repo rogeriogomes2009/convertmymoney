@@ -25,6 +25,16 @@ button{
 }
 .footer{
     padding: 12px;
-    background:#505355;
+    background:#a8b2b9;
     color: #ffffff;
+}
+.img-link{
+    width: 50px;
+}
+.img-link2{
+    width: 100px;
+}
+.digite{
+font-weight: bold;
+text-align: center;
 }
