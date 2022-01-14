@@ -53,9 +53,9 @@ This project is licensed under the MIT license - see [LICENSE.md](LICENSE.md) fo
 * Este projeto foi construído durante as aulas do Fullstack Master do [DevPleno](https://devpleno.com).
 Agradeço de todo o meu coração, primeiramente a Deus por me proporcionar esta experiência, e também aos amigos da DEVPLENO, em especial ao @RenatoSiqueira pela paciência e compreensão 
 nesses meus primeiros passos. 
-#SEREIDEV #FULLSTACK #OBRIGADODEUS
+A pedidos no Mestre Renatin #EUSOUDEV #FULLSTACK #OBRIGADODEUS
 
 This project was built during the Fullstack Master classes at [DevPleno](https://devpleno.com).
 I thank with all my heart, first of all to God for giving me this experience, and also to the
 friends of DEVpleno, especially @RenatoSiqueira for his patience and understanding in these first ones steps. 
-#TOBEDEV #FULLSTACK #THANK YOU OF GOD
+#I'MDEV #FULLSTACK #THANK'SGOD
