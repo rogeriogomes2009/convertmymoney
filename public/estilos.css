@@ -1,5 +1,6 @@
 body{
     text-align: center;
+    background-size: cover;
     background-image: url(/images/background.png);
 }
 input{
@@ -26,4 +27,4 @@ button{
     padding: 12px;
     background:#1489e9;
     color: #ffffff;
-    }
+}
